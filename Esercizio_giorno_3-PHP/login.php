@@ -35,7 +35,7 @@
         </nav>
     </heder>
     <main class="container">
-        <form method="post" action="gestione.php" enctype="multipart/form-data">
+        <form method="post" action="controller.php" enctype="multipart/form-data">
             <h1>Login</h1>
             <div class="row g-3">
                 <div class="row-sm">

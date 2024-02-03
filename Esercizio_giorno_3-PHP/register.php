@@ -36,7 +36,7 @@
     </heder>
     <main class="container">
         <h1>Register</h1>
-        <form method="post" action="gestione.php" enctype="multipart/form-data" class="my-3">
+        <form method="post" action="controller.php" enctype="multipart/form-data" class="my-3">
             <div class="row g-3">
                 <div class="row-sm">
                     <input type="email" class="form-control" placeholder="Email..." name="email">
