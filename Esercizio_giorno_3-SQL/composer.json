@@ -1,0 +1,17 @@
+{
+    "name": "lavinia/esercizio_giorno_4-sql",
+    "autoload": {
+        "psr-4": {
+            "Lavinia\\EsercizioGiorno4Sql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lavinia1830",
+            "email": "lavinia.baratti@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
